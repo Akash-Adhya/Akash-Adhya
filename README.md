@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akash-Adhya
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning C, CSS & J.S.
+- 👀 I’m interested in Web Development, programming, problem-solving etc.
+- 🌱 I’m currently learning Web Development.
 - 💞️ <!-- I’m looking to collaborate on ... -->
 - 📫 How to reach me akashadhya21@gmail.com
 
